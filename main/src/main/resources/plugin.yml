@@ -1,0 +1,7 @@
+name: HisyaCraft
+version: ${project.version}
+main: com.bun133.hisya.hisyacraft.HisyaCraft
+api-version: 1.15
+authors: [ Bun133 ]
+description: HisyaCraft for Spigot 1.15.2
+website: https://twitter.com/bun133_
